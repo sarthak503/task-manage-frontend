@@ -1,0 +1,35 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label,
+input,
+textarea,
+button {
+  display: block;
+  margin-bottom: 10px;
+}
+
+h1,
+h2 {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+button {
+  margin-top: 10px;
+}
